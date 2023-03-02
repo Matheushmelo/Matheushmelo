@@ -3,10 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-b12418234/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheushmelo&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheushmelo&layout=compact)](https://github.com/Matheushmelo/github-readme-stats)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>

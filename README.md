@@ -2,19 +2,26 @@
 
 > Pleno FullStack Software Developer com + de 3 anos de esperiência
 
-## 🛠 Stack
+## ⚙️ Stack
 
-**Backend** - Tech • Tech  
-**Frontend** - Tech • Tech  
-**Infra** - Tech • Tech  
-**Dados** - Tech • Tech  
+**Backend** - Node.js • TypeScript • Express.js • Fastfy • Socket.io • ORMs  
+**Frontend** - React • Next • TypeScript & JavaScript • Redux • Socket.io Client • Axios    
+**Infra** - Docker & Docker Compose • AWS S3  
+**Dados** - PostgreSQL • MySQL • SQLServer • Redis • Elasticsearch  
+**AI & LLMOps** - RAG • LLM Orchestration • MCP 
+
 
 ## 🚀 Projeto atual
+
+> Um ecossistema de alta disponibilidade projetado para transformar o atendimento de qualquer empresa. 
+> O sistema vai além de um chatbot comum, atuando como um atendente digital que integra múltiplos canais de mensageria a um motor de
+> decisão baseado em Large Language Models (LLMs) e dados em tempo real.
 
 ## 📚 Estudando agora
 
 >**Android (Kotlin • Jetpack Compose)**  
 > Aberto a oportunidades nessa stack
+
 
 ## 📬 Contato para oportunidades
 
